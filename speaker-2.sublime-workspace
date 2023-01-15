@@ -1,0 +1,458 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"speak",
+				"speaker_2_recipe"
+			],
+			[
+				"pro",
+				"programmable-speaker-v2"
+			],
+			[
+				"spea",
+				"speaker_2_item"
+			],
+			[
+				"speaker",
+				"programmable-speaker-v2"
+			],
+			[
+				"mi",
+				"minable"
+			],
+			[
+				"se",
+				"speaker_2_recipe"
+			],
+			[
+				"speaker_2_",
+				"speaker_2_recipe"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "info.json",
+			"settings":
+			{
+				"buffer_size": 327,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAACkAAAAAAAAAKQAAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAACkAAAAAAAAAKgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Dev/Lua.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua/Lua.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Dev/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Lua52.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Lua52.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Dev/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/User/lua52.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua Dev/Lua.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"LuaJIT Run File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Lua Run File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/User/Lua52.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Lua Run File"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/Factorio/mods/speaker-2_0.2.0"
+	],
+	"file_history":
+	[
+		"/H/Factorio/mods/speaker-2_0.2.0/data-final-fixes.lua",
+		"/H/Factorio/mods/speaker-2_0.2.0/prototypes/entities.lua",
+		"/H/Steam/steamapps/common/Factorio/data/base/prototypes/entity/circuit-network.lua",
+		"/H/Factorio/mods/speaker-2_0.2.0/data.lua",
+		"/H/Factorio/mods/mod-list.json",
+		"/H/Steam/steamapps/common/Factorio/data/core/lualib/mod-gui.lua",
+		"/H/Factorio/mods/speaker-2_0.1.0/locale/en/en.cfg",
+		"/H/Factorio/mods/speaker-2_0.1.0/info.json",
+		"/H/Steam/steamapps/common/Factorio/data/base/prototypes/recipe.lua",
+		"/H/Factorio/mods/speaker-2_0.1.0/data.lua",
+		"/H/Factorio/mods/speaker-2_0.1.0/protoypes/entities.lua",
+		"/H/Factorio/mods/speaker-2_0.1.0/protoypes/recipe.lua",
+		"/H/Factorio/mods/speaker-2_0.1.0/protoypes/items.lua",
+		"/H/Factorio/mods/speaker-2_0.1.0/data-final-fixes.lua",
+		"/H/Factorio/mods/speaker-2_0.1.0/item.lua",
+		"/H/Factorio/mods/speaker-2_0.1.0/thumbnail.png",
+		"/H/Factorio/mods/speaker-2_0.1/data.lua",
+		"/C/Users/todor/Desktop/test.lua",
+		"/C/Users/todor/AppData/Roaming/Sublime Text/Packages/Lua Love/LuaLove.sublime-build",
+		"/C/Users/todor/AppData/Roaming/Sublime Text/Packages/User/Lua52.sublime-build",
+		"/C/Users/todor/AppData/Roaming/Sublime Text/Packages/User/lua52.sublime-build",
+		"/H/Fractal Softworks/Starsector/starsector-core/data/world/factions/default_ranks.json",
+		"/H/sd_amd/text2img.py",
+		"/C/Users/todor/AppData/Roaming/StardewValley/Saves/asd_325610115/asd_325610115",
+		"/C/Users/todor/AppData/Roaming/StardewValley/Saves/asd_325610115/SaveGameInfo",
+		"/H/Fractal Softworks/Starsector/starsector-core/starsector.log",
+		"/H/Fractal Softworks/Starsector/starsector-core/stelnet.log",
+		"/H/Fractal Softworks/Starsector/mods/DynamicTariffs/settings.json",
+		"/H/sd_amd/diffusers=2.7.0/examples/inference/dml_onnx.py",
+		"/H/sd_amd/txt2img.py",
+		"/H/sd_amd/convert_stable_diffusion_checkpoint_to_onnx.py",
+		"/H/sd_amd/diffusers/text2img.py",
+		"/H/sd_amd/diffusers/examples/inference/dml_onnx.py",
+		"/H/sd_amd/diffusers/examples/inference/save_onnx.py",
+		"/H/gpt-amd/train.py",
+		"/H/gpt-neo-amd/main.py",
+		"/H/sd_amd/diffusers/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion.py",
+		"/C/Users/todor/Desktop/starsector_fajlovi/descriptions.txt",
+		"/C/Users/todor/Desktop/starsector_fajlovi/starsector.txt",
+		"/H/stable_diffusion-amd/environment.yaml",
+		"/H/gpt-amd/starsector_rules.txt",
+		"/C/Users/todor/Desktop/starsector_fajlovi/starsector_rules.txt",
+		"/H/gpt-amd/starsector.txt",
+		"/H/Fractal Softworks/Starsector/starsector-core/data/campaign/rules.csv",
+		"/H/Fractal Softworks/Starsector/starsector-core/data/campaign/special_items.csv",
+		"/H/gpt-2-finetuning/samples/run1/samples-50",
+		"/H/gpt-2-finetuning/src/starsector.txt",
+		"/H/Fractal Softworks/Starsector/starsector-core/data/strings/strings.json",
+		"/H/Fractal Softworks/Starsector/starsector-core/data/strings/ship_names.json",
+		"/H/Fractal Softworks/Starsector/starsector-core/data/world/factions/default_fleet_type_names.json",
+		"/H/Fractal Softworks/Starsector/starsector-core/data/strings/tips.json",
+		"/H/Fractal Softworks/Starsector/starsector-core/data/world/factions/persean_league.faction",
+		"/C/Users/todor/Desktop/compress_cbz.py",
+		"/C/Users/todor/Desktop/mange/compress_cbz.py",
+		"/C/Users/todor/Desktop/Igrice i biosi/psp/gamelist.xml",
+		"/J/psp/gamelist.xml",
+		"/C/Users/todor/AppData/Roaming/Sublime Text/Installed Packages/ARM Assembly.sublime-package",
+		"/G/Spy.Game.2001.BrRip.720p.x264.YIFY.sub",
+		"/G/Inglourious basterds (2009) - DvDRip-FxM_shifted.srt",
+		"/G/Inglourious basterds (2009) - DvDRip-FxM.srt",
+		"/G/Inglourious Basterds 2009 x264 aac.srt",
+		"/C/Users/todor/Desktop/cmake_sviranje.txt",
+		"/H/Aseprite/data/fonts/fonts.xml",
+		"/C/Users/todor/Documents/Repos/aseprite/CMakeLists.txt",
+		"/H/Fractal Softworks/Starsector/mods/stelnet/stelnet.version",
+		"/H/Fractal Softworks/Starsector/mods/stelnet/stelnet.json.dist",
+		"/H/Fractal Softworks/Starsector/mods/stelnet/stelnet.json",
+		"/H/Fractal Softworks/Starsector/mods/SpeedUp/SPEED_UP.ini",
+		"/C/Users/todor/AppData/Local/Temp/Rar$DIa3212.18940/SPEED_UP.ini",
+		"/H/Steam/steamapps/common/swkotor/swkotor.ini"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ingred"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "H:\\Factorio\\mods\\speaker-2_0.2.0"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "info.json",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								327,
+								327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 367.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Lua52.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

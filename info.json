@@ -1,0 +1,9 @@
+{
+  "name": "speaker-2",
+  "version": "0.2.0",
+  "title": "Speaker 2.0",
+  "author": "hypocrisy-aeron",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod adds an advanced version of the games default speaker. Allows for more abstract and fine-tuned control over signals and messages."
+}
