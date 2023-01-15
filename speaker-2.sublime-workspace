@@ -36,545 +36,35 @@
 	"buffers":
 	[
 		{
-			"file": "data-final-fixes.lua",
+
+			"file": "info.json",
 			"settings":
 			{
-				"buffer_size": 446,
+				"buffer_size": 327,
+
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
-			]
-		},
-		{
-			"file": "data.lua",
-			"settings":
-			{
-				"buffer_size": 99,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					3,
-					1,
-					"insert",
-					{
-						"characters": "\nreq"
-					},
-					"BAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
-				],
 				[
 					4,
 					1,
-					"insert_completion",
-					{
-						"completion": "require",
-						"format": "text",
-						"keep_prefix": false,
-						"must_insert": false,
-						"trigger": "require"
-					},
-					"AgAAAEcAAAAAAAAARwAAAAAAAAADAAAAcmVxRwAAAAAAAABOAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+					"left_delete",
+					null,
+					"AQAAACkAAAAAAAAAKQAAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					5,
 					1,
-					"insert_snippet",
-					{
-						"contents": "($0)"
-					},
-					"AQAAAE4AAAAAAAAAUAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					6,
-					1,
-					"insert_snippet",
-					{
-						"contents": "\"$0\""
-					},
-					"AQAAAE8AAAAAAAAAUQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					7,
-					1,
 					"insert",
 					{
-						"characters": ":"
+						"characters": "2"
 					},
-					"AQAAAFAAAAAAAAAAUQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					8,
-					1,
-					"left_delete",
-					null,
-					"AQAAAFAAAAAAAAAAUAAAAAAAAAABAAAAOg",
-					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"insert",
-					{
-						"characters": "pro"
-					},
-					"AwAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					1,
-					"insert_completion",
-					{
-						"completion": "prototypes",
-						"format": "text",
-						"keep_prefix": false,
-						"must_insert": false,
-						"trigger": "prototypes"
-					},
-					"AgAAAFAAAAAAAAAAUAAAAAAAAAADAAAAcHJvUAAAAAAAAABaAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					11,
-					1,
-					"insert",
-					{
-						"characters": "/re"
-					},
-					"AwAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					12,
-					1,
-					"insert",
-					{
-						"characters": "cipe"
-					},
-					"BAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+					"AQAAACkAAAAAAAAAKgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
 				]
-			]
-		},
-		{
-			"file": "prototypes/entities.lua",
-			"settings":
-			{
-				"buffer_size": 1277,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-				[
-					21,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAAPYBAAAAAAAA9wEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA9gEAAAAAAAD2AQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					22,
-					1,
-					"paste",
-					null,
-					"AQAAAPcBAAAAAAAACAIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA9wEAAAAAAAD3AQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					23,
-					1,
-					"insert",
-					{
-						"characters": ".layers"
-					},
-					"BwAAAAgCAAAAAAAACQIAAAAAAAAAAAAACQIAAAAAAAAKAgAAAAAAAAAAAAAKAgAAAAAAAAsCAAAAAAAAAAAAAAsCAAAAAAAADAIAAAAAAAAAAAAADAIAAAAAAAANAgAAAAAAAAAAAAANAgAAAAAAAA4CAAAAAAAAAAAAAA4CAAAAAAAADwIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAACAIAAAAAAAAIAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					24,
-					1,
-					"insert",
-					{
-						"characters": ".filenam"
-					},
-					"CAAAAA8CAAAAAAAAEAIAAAAAAAAAAAAAEAIAAAAAAAARAgAAAAAAAAAAAAARAgAAAAAAABICAAAAAAAAAAAAABICAAAAAAAAEwIAAAAAAAAAAAAAEwIAAAAAAAAUAgAAAAAAAAAAAAAUAgAAAAAAABUCAAAAAAAAAAAAABUCAAAAAAAAFgIAAAAAAAAAAAAAFgIAAAAAAAAXAgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAADwIAAAAAAAAPAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					25,
-					1,
-					"insert",
-					{
-						"characters": "e"
-					},
-					"AQAAABcCAAAAAAAAGAIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAFwIAAAAAAAAXAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					26,
-					1,
-					"insert",
-					{
-						"characters": " ="
-					},
-					"AgAAABgCAAAAAAAAGQIAAAAAAAAAAAAAGQIAAAAAAAAaAgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAGAIAAAAAAAAYAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					27,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAABoCAAAAAAAAGwIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAGgIAAAAAAAAaAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					37,
-					1,
-					"paste",
-					null,
-					"AQAAABsCAAAAAAAAXwIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAGwIAAAAAAAAbAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					38,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AQAAAF8CAAAAAAAAYAIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAXwIAAAAAAABfAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					44,
-					1,
-					"paste",
-					null,
-					"AQAAAGACAAAAAAAAgQIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAYAIAAAAAAABgAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					45,
-					1,
-					"insert",
-					{
-						"characters": ".hr"
-					},
-					"AwAAAIECAAAAAAAAggIAAAAAAAAAAAAAggIAAAAAAACDAgAAAAAAAAAAAACDAgAAAAAAAIQCAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAgQIAAAAAAACBAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					46,
-					1,
-					"insert",
-					{
-						"characters": "_version"
-					},
-					"CAAAAIQCAAAAAAAAhQIAAAAAAAAAAAAAhQIAAAAAAACGAgAAAAAAAAAAAACGAgAAAAAAAIcCAAAAAAAAAAAAAIcCAAAAAAAAiAIAAAAAAAAAAAAAiAIAAAAAAACJAgAAAAAAAAAAAACJAgAAAAAAAIoCAAAAAAAAAAAAAIoCAAAAAAAAiwIAAAAAAAAAAAAAiwIAAAAAAACMAgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAhAIAAAAAAACEAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					47,
-					1,
-					"insert",
-					{
-						"characters": ".file"
-					},
-					"BQAAAIwCAAAAAAAAjQIAAAAAAAAAAAAAjQIAAAAAAACOAgAAAAAAAAAAAACOAgAAAAAAAI8CAAAAAAAAAAAAAI8CAAAAAAAAkAIAAAAAAAAAAAAAkAIAAAAAAACRAgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAjAIAAAAAAACMAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					48,
-					1,
-					"insert_completion",
-					{
-						"completion": "filename",
-						"format": "text",
-						"keep_prefix": false,
-						"must_insert": false,
-						"trigger": "filename"
-					},
-					"AgAAAI0CAAAAAAAAjQIAAAAAAAAEAAAAZmlsZY0CAAAAAAAAlQIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAkQIAAAAAAACRAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					49,
-					1,
-					"insert",
-					{
-						"characters": " ="
-					},
-					"AgAAAJUCAAAAAAAAlgIAAAAAAAAAAAAAlgIAAAAAAACXAgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAlQIAAAAAAACVAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					50,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAJcCAAAAAAAAmAIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAlwIAAAAAAACXAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					56,
-					1,
-					"paste",
-					null,
-					"AQAAAJgCAAAAAAAA3wIAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAmAIAAAAAAACYAgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					68,
-					1,
-					"right_delete",
-					null,
-					"AQAAAPcBAAAAAAAA9wEAAAAAAADoAAAAc3BlYWtlcl8yLnNwcml0ZXMubGF5ZXJzLmZpbGVuYW1lID0gIl9fc3BlYWtlci0yX18vZ3JhcGhpY3MvZW50aXR5L3NwZWFrZXIyL3Byb2dyYW1tYWJsZS1zcGVha2VyLXYyLnBuZyIKc3BlYWtlcl8yLnNwcml0ZXMubGF5ZXJzLmZpbGVuYW1lLmhyX3ZlcnNpb24uZmlsZW5hbWUgPSAiX19zcGVha2VyLTJfXy9ncmFwaGljcy9lbnRpdHkvc3BlYWtlcjIvaHItcHJvZ3JhbW1hYmxlLXNwZWFrZXItdjIucG5nIg",
-					"AQAAAAAAAAABAAAA3wIAAAAAAAD3AQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					69,
-					1,
-					"left_delete",
-					null,
-					"AQAAAPYBAAAAAAAA9gEAAAAAAAABAAAACg",
-					"AQAAAAAAAAABAAAA9wEAAAAAAAD3AQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					74,
-					1,
-					"insert",
-					{
-						"characters": "\n\n"
-					},
-					"AgAAAMQGAAAAAAAAxQYAAAAAAAAAAAAAxQYAAAAAAADGBgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAxAYAAAAAAADEBgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					76,
-					1,
-					"paste",
-					null,
-					"AQAAAMUGAAAAAAAAJgcAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAxQYAAAAAAADFBgAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					81,
-					1,
-					"insert",
-					{
-						"characters": "Speaker"
-					},
-					"CAAAANcGAAAAAAAA2AYAAAAAAAAAAAAA2AYAAAAAAADYBgAAAAAAAAYAAABFbnRpdHnYBgAAAAAAANkGAAAAAAAAAAAAANkGAAAAAAAA2gYAAAAAAAAAAAAA2gYAAAAAAADbBgAAAAAAAAAAAADbBgAAAAAAANwGAAAAAAAAAAAAANwGAAAAAAAA3QYAAAAAAAAAAAAA3QYAAAAAAADeBgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA1wYAAAAAAADdBgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					82,
-					1,
-					"insert",
-					{
-						"characters": " 2.0"
-					},
-					"BAAAAN4GAAAAAAAA3wYAAAAAAAAAAAAA3wYAAAAAAADgBgAAAAAAAAAAAADgBgAAAAAAAOEGAAAAAAAAAAAAAOEGAAAAAAAA4gYAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA3gYAAAAAAADeBgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					85,
-					4,
-					"left_delete",
-					null,
-					"BAAAAOkGAAAAAAAA6QYAAAAAAAAMAAAAb3V0Lm5hbWUgLi4g6AYAAAAAAADoBgAAAAAAAAEAAAAg5wYAAAAAAADnBgAAAAAAAAEAAAAu5gYAAAAAAADmBgAAAAAAAAEAAAAu",
-					"AQAAAAAAAAABAAAA6QYAAAAAAAD1BgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					88,
-					2,
-					"left_delete",
-					null,
-					"AgAAAOMGAAAAAAAA4wYAAAAAAAAFAAAAYCIgImDiBgAAAAAAAOIGAAAAAAAAAQAAACA",
-					"AQAAAAAAAAABAAAA6AYAAAAAAADjBgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					95,
-					1,
-					"insert",
-					{
-						"characters": "speaker"
-					},
-					"CAAAAOwGAAAAAAAA7QYAAAAAAAAAAAAA7QYAAAAAAADtBgAAAAAAAA8AAABzaWduYWwgY2FwYWNpdHntBgAAAAAAAO4GAAAAAAAAAAAAAO4GAAAAAAAA7wYAAAAAAAAAAAAA7wYAAAAAAADwBgAAAAAAAAAAAADwBgAAAAAAAPEGAAAAAAAAAAAAAPEGAAAAAAAA8gYAAAAAAAAAAAAA8gYAAAAAAADzBgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA+wYAAAAAAADsBgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					96,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAPMGAAAAAAAA9AYAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA8wYAAAAAAADzBgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					97,
-					1,
-					"insert",
-					{
-						"characters": "images"
-					},
-					"BgAAAPQGAAAAAAAA9QYAAAAAAAAAAAAA9QYAAAAAAAD2BgAAAAAAAAAAAAD2BgAAAAAAAPcGAAAAAAAAAAAAAPcGAAAAAAAA+AYAAAAAAAAAAAAA+AYAAAAAAAD5BgAAAAAAAAAAAAD5BgAAAAAAAPoGAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA9AYAAAAAAAD0BgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					98,
-					1,
-					"insert",
-					{
-						"characters": " used"
-					},
-					"BQAAAPoGAAAAAAAA+wYAAAAAAAAAAAAA+wYAAAAAAAD8BgAAAAAAAAAAAAD8BgAAAAAAAP0GAAAAAAAAAAAAAP0GAAAAAAAA/gYAAAAAAAAAAAAA/gYAAAAAAAD/BgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA+gYAAAAAAAD6BgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					104,
-					1,
-					"insert",
-					{
-						"characters": "speaker2"
-					},
-					"CQAAAAYHAAAAAAAABwcAAAAAAAAAAAAABwcAAAAAAAAHBwAAAAAAABMAAABvdXQuaXRlbV9zbG90X2NvdW50BwcAAAAAAAAIBwAAAAAAAAAAAAAIBwAAAAAAAAkHAAAAAAAAAAAAAAkHAAAAAAAACgcAAAAAAAAAAAAACgcAAAAAAAALBwAAAAAAAAAAAAALBwAAAAAAAAwHAAAAAAAAAAAAAAwHAAAAAAAADQcAAAAAAAAAAAAADQcAAAAAAAAOBwAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABgcAAAAAAAAZBwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					105,
-					1,
-					"insert_completion",
-					{
-						"completion": "speaker_2",
-						"format": "text",
-						"keep_prefix": false,
-						"must_insert": false,
-						"trigger": "speaker_2"
-					},
-					"AgAAAAYHAAAAAAAABgcAAAAAAAAIAAAAc3BlYWtlcjIGBwAAAAAAAA8HAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAADgcAAAAAAAAOBwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					106,
-					1,
-					"insert",
-					{
-						"characters": "."
-					},
-					"AQAAAA8HAAAAAAAAEAcAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAADwcAAAAAAAAPBwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					112,
-					1,
-					"insert_completion",
-					{
-						"completion": "sprites",
-						"format": "text",
-						"keep_prefix": false,
-						"must_insert": true,
-						"trigger": "sprites"
-					},
-					"AQAAABAHAAAAAAAAFwcAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAEAcAAAAAAAAQBwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					113,
-					1,
-					"insert",
-					{
-						"characters": ".layer"
-					},
-					"BgAAABcHAAAAAAAAGAcAAAAAAAAAAAAAGAcAAAAAAAAZBwAAAAAAAAAAAAAZBwAAAAAAABoHAAAAAAAAAAAAABoHAAAAAAAAGwcAAAAAAAAAAAAAGwcAAAAAAAAcBwAAAAAAAAAAAAAcBwAAAAAAAB0HAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAFwcAAAAAAAAXBwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					114,
-					1,
-					"insert",
-					{
-						"characters": "s.filena"
-					},
-					"CAAAAB0HAAAAAAAAHgcAAAAAAAAAAAAAHgcAAAAAAAAfBwAAAAAAAAAAAAAfBwAAAAAAACAHAAAAAAAAAAAAACAHAAAAAAAAIQcAAAAAAAAAAAAAIQcAAAAAAAAiBwAAAAAAAAAAAAAiBwAAAAAAACMHAAAAAAAAAAAAACMHAAAAAAAAJAcAAAAAAAAAAAAAJAcAAAAAAAAlBwAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAHQcAAAAAAAAdBwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					115,
-					1,
-					"insert",
-					{
-						"characters": "me"
-					},
-					"AgAAACUHAAAAAAAAJgcAAAAAAAAAAAAAJgcAAAAAAAAnBwAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAJQcAAAAAAAAlBwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					133,
-					2,
-					"left_delete",
-					null,
-					"AgAAAEMEAAAAAAAAQwQAAAAAAAByAgAAICAgICAgICB7CiAgICAgICAgICBmaWxlbmFtZSA9ICJfX2Jhc2VfXy9ncmFwaGljcy9lbnRpdHkvcHJvZ3JhbW1hYmxlLXNwZWFrZXIvcHJvZ3JhbW1hYmxlLXNwZWFrZXItc2hhZG93LnBuZyIsCiAgICAgICAgICBwcmlvcml0eSA9ICJleHRyYS1oaWdoIiwKICAgICAgICAgIHdpZHRoID0gMTE5LAogICAgICAgICAgaGVpZ2h0ID0gMjUsCiAgICAgICAgICBzaGlmdCA9IHV0aWwuYnlfcGl4ZWwoNTIuNSwgLTIuNSksCiAgICAgICAgICBkcmF3X2FzX3NoYWRvdyA9IHRydWUsCiAgICAgICAgICBocl92ZXJzaW9uID0KICAgICAgICAgIHsKICAgICAgICAgICAgZmlsZW5hbWUgPSAiX19iYXNlX18vZ3JhcGhpY3MvZW50aXR5L3Byb2dyYW1tYWJsZS1zcGVha2VyL2hyLXByb2dyYW1tYWJsZS1zcGVha2VyLXNoYWRvdy5wbmciLAogICAgICAgICAgICBwcmlvcml0eSA9ICJleHRyYS1oaWdoIiwKICAgICAgICAgICAgd2lkdGggPSAyMzcsCiAgICAgICAgICAgIGhlaWdodCA9IDUwLAogICAgICAgICAgICBzaGlmdCA9IHV0aWwuYnlfcGl4ZWwoNTIuNzUsIC0zKSwKICAgICAgICAgICAgZHJhd19hc19zaGFkb3cgPSB0cnVlLAogICAgICAgICAgICBzY2FsZSA9IDAuNQogICAgICAgICAgfQogICAgICAgIH1CBAAAAAAAAEIEAAAAAAAAAQAAAAo",
-					"AQAAAAAAAAABAAAAtQYAAAAAAABDBAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					140,
-					3,
-					"left_delete",
-					null,
-					"AwAAAFIEAAAAAAAAUgQAAAAAAABjAAAATW9kLmxvZ2dlcjpkZWJ1ZygiU3BlYWtlciAyLjAgZGVmaW5lZCwgc3BlYWtlciBpbWFnZXMgdXNlZDogIiAuLiBzcGVha2VyXzIuc3ByaXRlcy5sYXllcnMuZmlsZW5hbWUpUQQAAAAAAABRBAAAAAAAAAEAAAAKUAQAAAAAAABQBAAAAAAAAAEAAAAK",
-					"AQAAAAAAAAABAAAAtQQAAAAAAABSBAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					169,
-					1,
-					"right_delete",
-					null,
-					"AQAAAAcCAAAAAAAABwIAAAAAAAABAAAAcw",
-					"AQAAAAAAAAABAAAABwIAAAAAAAAHAgAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "prototypes/items.lua",
-			"settings":
-			{
-				"buffer_size": 607,
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-			]
-		},
-		{
-			"file": "/H/Steam/steamapps/common/Factorio/data/base/prototypes/entity/circuit-network.lua",
-			"settings":
-			{
-				"buffer_size": 55494,
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
 			]
 		}
 	],
@@ -726,13 +216,15 @@
 	},
 	"expanded_folders":
 	[
-		"/H/Factorio/mods/speaker-2_0.1.0",
-		"/H/Factorio/mods/speaker-2_0.1.0/locale",
-		"/H/Factorio/mods/speaker-2_0.1.0/locale/en",
-		"/H/Factorio/mods/speaker-2_0.1.0/prototypes"
+		"/H/Factorio/mods/speaker-2_0.2.0"
 	],
 	"file_history":
 	[
+		"/H/Factorio/mods/speaker-2_0.2.0/data-final-fixes.lua",
+		"/H/Factorio/mods/speaker-2_0.2.0/prototypes/entities.lua",
+		"/H/Steam/steamapps/common/Factorio/data/base/prototypes/entity/circuit-network.lua",
+		"/H/Factorio/mods/speaker-2_0.2.0/data.lua",
+		"/H/Factorio/mods/mod-list.json",
 		"/H/Steam/steamapps/common/Factorio/data/core/lualib/mod-gui.lua",
 		"/H/Factorio/mods/speaker-2_0.1.0/locale/en/en.cfg",
 		"/H/Factorio/mods/speaker-2_0.1.0/info.json",
@@ -835,7 +327,7 @@
 	"folders":
 	[
 		{
-			"path": "H:\\Factorio\\mods\\speaker-2_0.1.0"
+			"path": "H:\\Factorio\\mods\\speaker-2_0.2.0"
 		}
 	],
 	"groups":
@@ -845,26 +337,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "data-final-fixes.lua",
+					"file": "info.json",
+
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 446,
+						"buffer_size": 327,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								131,
-								131
+								327,
+								327
+
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax",
-							"tab_size": 4,
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -872,126 +367,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "data.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 99,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								97,
-								97
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "prototypes/entities.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1277,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1103,
-								1103
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "prototypes/items.lua",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 607,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								283,
-								283
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/H/Steam/steamapps/common/Factorio/data/base/prototypes/entity/circuit-network.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 55494,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7154,
-								7154
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
 					"stack_multiselect": false,
 					"type": "text"
 				}
