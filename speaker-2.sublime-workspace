@@ -36,10 +36,12 @@
 	"buffers":
 	[
 		{
+
 			"file": "info.json",
 			"settings":
 			{
 				"buffer_size": 327,
+
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
@@ -336,6 +338,7 @@
 				{
 					"buffer": 0,
 					"file": "info.json",
+
 					"selected": true,
 					"semi_transient": false,
 					"settings":
@@ -349,12 +352,14 @@
 							[
 								327,
 								327
+
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JSON/JSON.sublime-syntax",
 							"tab_size": 2,
+
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
